@@ -1,0 +1,33 @@
+.prevention-steps {
+      background-color: #f0f8ff;
+      padding: 2rem;
+      border-radius: 10px;
+      margin-top: 2rem;
+  }
+  .prevention-steps h3 {
+      color: #1a5f7a;
+      margin-bottom: 1rem;
+  }
+  .prevention-steps ol {
+      padding-left: 1.5rem;
+  }
+  .prevention-steps li {
+      margin-bottom: 1rem;
+  }
+  .resources {
+    margin-top: 2rem;
+}
+.resources ul {
+    list-style-type: none;
+    padding: 0;
+}
+.resources li {
+    margin-bottom: 1rem;
+}
+.resources a {
+    color: #1a5f7a;
+    text-decoration: none;
+}
+.resources a:hover {
+    color: #ffd700;
+}
