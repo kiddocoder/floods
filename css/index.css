@@ -152,3 +152,20 @@
       height: auto;
     }
   
+    /* Media Queries */
+    @media (max-width: 768px) {
+      .card {
+        flex-basis: 100%;
+      }
+      nav{
+        flex-direction: column;
+      }
+    }
+    @media (max-width: 480px) {
+      nav {
+        padding: 0.5rem 1rem;
+      }
+      .nav-links li {
+        margin-left: 1rem;
+      }
+    }
